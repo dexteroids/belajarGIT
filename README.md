@@ -8,4 +8,10 @@ Daftar tugas / branch
   7. Tugas-finalProject
 
 Daftar perintah GiT
-…
+git branch "nama-branch"	//membuat branch
+git checkout "nama-branch" 	//mengganti ke branch yang ingi digunakan
+git add "nama file"  		//menambahkan file pada staging area
+git commit -m "keterangan" 	//menyimpan file pada local repository
+git merge "nama-branch" 	//mengintegrasikan branch ke master
+git push 			//menyimpan file di local repository ke remote repository
+ 
